@@ -13,6 +13,7 @@ const Home = () => {
   return (
     <div className="home">
       <h1>Home page</h1>
+      <p>FIND CLOTHES THAT MATCHES YOUR STYLE</p>
       <div className="product-list">
         {products.map((product) => (
           <ProductCard key={product.id} product={product} onAddToCart={handleAddToCart} />
