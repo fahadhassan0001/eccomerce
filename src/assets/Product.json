@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Basic T-Shirt",
+    "price": 20,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.X0rcNRRNItEK06oq9-4lMwHaIw&pid=Api&P=0&h=220"
+  },
+  {
+    "id": 2,
+    "name": "Sneakers",
+    "price": 50,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.--Bhv05grQ8eBnssITOZqgHaIt&pid=Api&P=0&h=220"
+  }
+]
